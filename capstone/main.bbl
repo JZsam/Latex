@@ -1,0 +1,328 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Beekmans%
+}{%
+Beekmans%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+Beekmans:2022}
+\APACinsertmetastar {%
+Beekmans:2022}%
+\begin{APACrefauthors}%
+Beekmans, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2022}.
+\newblock
+\APACrefbtitle {Linux From Scratch} {Linux from scratch}\ (\PrintOrdinal{11.2}\ \BEd; B.~Dubbs, \BED{}).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+DiMascio%
+}{%
+DiMascio%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+DiMascio:2005}
+\APACinsertmetastar {%
+DiMascio:2005}%
+\begin{APACrefauthors}%
+DiMascio, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Linux system picked for ICS subcontract: GDC4 SYSTEMS CONTRACT FOR FCS BATTLE COMMAND BOOSTED BY \$75 MILLION} {Linux system picked for ics subcontract: Gdc4 systems contract for fcs battle command boosted by \$75 million}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Inside the Army}{17}{16}{14--14}.
+\newblock
+\begin{APACrefURL} [{2023-02-14}]\url{http://www.jstor.org/stable/24822991} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dodge%
+\ \BBA {} Kitchin%
+}{%
+Dodge%
+\ \BBA {} Kitchin%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Dodge:2005}
+\APACinsertmetastar {%
+Dodge:2005}%
+\begin{APACrefauthors}%
+Dodge, M.%
+\BCBT {}\ \BBA {} Kitchin, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Code and the Transduction of Space} {Code and the transduction of space}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Annals of the Association of American Geographers}{95}{1}{162--180}.
+\newblock
+\begin{APACrefURL} [{2023-02-02}]\url{http://www.jstor.org/stable/3694036} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hochmuth%
+}{%
+Hochmuth%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+Hochmuth:2002}
+\APACinsertmetastar {%
+Hochmuth:2002}%
+\begin{APACrefauthors}%
+Hochmuth, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {FedEx Freight delivers with Linux Web server migration.} {Fedex freight delivers with linux web server migration.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Network World}{19}{46}{17}.
+\newblock
+\begin{APACrefURL} \url{https://www.infohio.org/launch/?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=url,cookie,ip,custuid&custid=infohio&db=b9h&AN=8522035&site=ehost-live&scope=site} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Le{\'o}n%
+, Mart{\'\i}nez-Gonz{\'a}lez%
+, Medina%
+\BCBL {}\ \BBA {} Peralta-Pelaez%
+}{%
+Le{\'o}n%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Leon:2017}
+\APACinsertmetastar {%
+Leon:2017}%
+\begin{APACrefauthors}%
+Le{\'o}n, J\BPBI R\BPBI C.%
+, Mart{\'\i}nez-Gonz{\'a}lez, R\BPBI F.%
+, Medina, A\BPBI M.%
+\BCBL {}\ \BBA {} Peralta-Pelaez, L\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{11}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Raspberry Pi and Arduino Uno Working together as a Basic Meteorological Station} {Raspberry pi and arduino uno working together as a basic meteorological station}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Computer Science and Information Technology (IJCSIT) Vol 9, No 5, October 2017}{}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/pdf/1711.09750.pdf} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.5121/ijcsit.2017.9508} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lewis%
+}{%
+Lewis%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+Lewis:2002}
+\APACinsertmetastar {%
+Lewis:2002}%
+\begin{APACrefauthors}%
+Lewis, P\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Why Linux Works for Libraries.} {Why linux works for libraries.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computers in Libraries}{22}{10}{28}.
+\newblock
+\begin{APACrefURL} \url{https://www.infohio.org/launch/?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=url,cookie,ip,custuid&custid=infohio&db=cph&AN=7685706&site=ehost-live&scope=site} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Maurer%
+\ \BBA {} Hinck%
+}{%
+Maurer%
+\ \BBA {} Hinck%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+Maurer:2020}
+\APACinsertmetastar {%
+Maurer:2020}%
+\begin{APACrefauthors}%
+Maurer, T.%
+\BCBT {}\ \BBA {} Hinck, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {Cloud Security: A Primer for Policymakers} {Cloud security: A primer for policymakers}\ \APACbVolEdTR{}{\BTR{}}.
+\newblock
+\APACaddressInstitution{}{Carnegie Endowment for International Peace}.
+\newblock
+\begin{APACrefURL} [{2023-02-21}]\url{http://www.jstor.org/stable/resrep25787.7} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Monaco%
+, Gala%
+\BCBL {}\ \BBA {} Fohler%
+}{%
+Monaco%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+Monaco:2023}
+\APACinsertmetastar {%
+Monaco:2023}%
+\begin{APACrefauthors}%
+Monaco, G.%
+, Gala, G.%
+\BCBL {}\ \BBA {} Fohler, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{01}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Extensions for Shared Resource Orchestration in Kubernetes to Support RT-Cloud Containers} {Extensions for shared resource orchestration in kubernetes to support rt-cloud containers}.{\BBCQ}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/pdf/2301.07479.pdf} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mutiara%
+\ \BBA {} Sabastian%
+}{%
+Mutiara%
+\ \BBA {} Sabastian%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+Mutiara:2007}
+\APACinsertmetastar {%
+Mutiara:2007}%
+\begin{APACrefauthors}%
+Mutiara, A\BPBI B.%
+\BCBT {}\ \BBA {} Sabastian, T\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{08}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Web Server Benchmark Application WiiBench using Erlang/OTP R11 and Fedora-Core Linux 5.0} {Web server benchmark application wiibench using erlang/otp r11 and fedora-core linux 5.0}.{\BBCQ}
+\newblock
+\begin{APACrefURL} \url{https://arxiv.org/pdf/0708.3166.pdf} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Noronha%
+}{%
+Noronha%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+Noronha:1999}
+\APACinsertmetastar {%
+Noronha:1999}%
+\begin{APACrefauthors}%
+Noronha, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Linux: Open Source Software for South Asia} {Linux: Open source software for south asia}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Economic and Political Weekly}{34}{46/47}{3273--3275}.
+\newblock
+\begin{APACrefURL} [{2023-02-14}]\url{http://www.jstor.org/stable/4408620} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Thibodeau%
+}{%
+Thibodeau%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+Thibodeau:2004}
+\APACinsertmetastar {%
+Thibodeau:2004}%
+\begin{APACrefauthors}%
+Thibodeau, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {NASA, Navy Buy Massive Supercomputers.} {Nasa, navy buy massive supercomputers.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computerworld}{38}{31}{5}.
+\newblock
+\begin{APACrefURL} \url{https://www.infohio.org/launch/?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=url,cookie,ip,custuid&custid=infohio&db=cph&AN=14050632&site=ehost-live&scope=site} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wong%
+}{%
+Wong%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Wong:2005}
+\APACinsertmetastar {%
+Wong:2005}%
+\begin{APACrefauthors}%
+Wong, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Linux Goes Real-Time All By Itself.} {Linux goes real-time all by itself.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Electronic Design}{53}{20}{40}.
+\newblock
+\begin{APACrefURL} \url{https://www.infohio.org/launch/?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=url,cookie,ip,custuid&custid=infohio&db=cph&AN=18348448&site=ehost-live&scope=site} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ybarra%
+}{%
+Ybarra%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Ybarra:2013}
+\APACinsertmetastar {%
+Ybarra:2013}%
+\begin{APACrefauthors}%
+Ybarra, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {JSTARS gets Linux upgrade: Air Force Prioritizes JSTARS Program, Looks To Expand Capabilities} {Jstars gets linux upgrade: Air force prioritizes jstars program, looks to expand capabilities}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Inside the Air Force}{24}{46}{6--7}.
+\newblock
+\begin{APACrefURL} [{2023-02-02}]\url{http://www.jstor.org/stable/24802439} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

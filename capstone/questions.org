@@ -1,0 +1,14 @@
+* How is Linux used to affect our daily life's?
+** 1. Linux for outer space?
+*** How is Linux used in outer space?
+[[file:20200002390.pdf][Research]]
+** 2. Real Time Linux
+*** How is Real Time(RT) Linux used around the world?
+** 3. Linux From Scratch
+*** Is it possible to create Linux from scratch? 
+Book
+** 4. Linux market share for web servers
+*** How much of the internet is run off of Linux web servers?
+** 5. Linux's use in supercomputers
+*** How many of the supercomputers in the world are running Linux?
+** Are there any other ways that Linux can or is being used daily?
